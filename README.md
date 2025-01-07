@@ -1,4 +1,4 @@
-# Nebula AI
+# Nebula AI 🌌
 
 Nebula AI is an AI-powered Solana Blockchain Explorer and Investment Predictor designed to unlock new opportunities in blockchain and investment markets using crowd-sourced market insights and advanced AI techniques.
 
